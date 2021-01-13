@@ -1,7 +1,5 @@
 ## Hello, Stranger. I am Shiro Raven :white_flower:
 
-![](https://komarev.com/ghpvc/?username=shiro-raven&color=blueviolet)
-
 I am an MSc. Informatics student at TU Munich :computer::de: I worked previously as an R&D ML engineer, dealing with the fields of Reinforcement Learning, Computer Vision, and Combinatorial Optimization. I also did some research in the area of Automated Software Measurement.  
 
 ### What I'm Doing Now
