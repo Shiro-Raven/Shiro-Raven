@@ -3,7 +3,9 @@
 I am an MSc. Informatics student at TU Munich :computer::de: I worked previously as an R&D ML engineer, dealing with the fields of Reinforcement Learning, Computer Vision, and Combinatorial Optimization. I also did some research in the area of Automated Software Measurement.  
 
 ### What I'm Doing Now
-Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts, and implementing some circuits that I use as subroutines frequently. So far, I am adept at **Qiskit** only, and I plan on keeping everything in [this repo](https://github.com/Shiro-Raven/ShiroQ).
+Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts, and implementing some circuits that I use as subroutines frequently. I am currently a mentee at [QOSF](https://qosf.org/)'s mentorship program, working on Distributed Quantum Algorithms.
+
+I plan on keeping everything quantum-related in [this repo](https://github.com/Shiro-Raven/ShiroQ).
 
 ### Repos I Worked On (By Area)
 - Automated Software Sizing :straight_ruler:: [COSMIC-arm-tool](https://github.com/Shiro-Raven/COSMIC-arm-tool)
