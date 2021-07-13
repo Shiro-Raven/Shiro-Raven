@@ -3,7 +3,7 @@
 I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Combinatorial Optimization, and Quantum Computing. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
 
 ### What I'm Doing Now
-Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts. Right now, I am an Quantum Software Engineer intern at [Zapata](https://github.com/zapatacomputing).
+Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts. Right now, I am a Quantum Software Engineer intern at [Zapata](https://github.com/zapatacomputing).
 
 I plan on keeping everything quantum-related in [this repo](https://github.com/Shiro-Raven/ShiroQ).
 
