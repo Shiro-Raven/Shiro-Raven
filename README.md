@@ -1,13 +1,14 @@
 ## Hello, Stranger. I am Shiro Raven :white_flower:
 
-I am an MSc. Informatics student at TU Munich :computer::de: I worked previously as an R&D ML engineer, dealing with the fields of Reinforcement Learning, Computer Vision, and Combinatorial Optimization. I also did some research in the area of Automated Software Measurement.  
+I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Combinatorial Optimization, and Quantum Computing. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
 
 ### What I'm Doing Now
-Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts, and implementing some circuits that I use as subroutines frequently. I am currently a mentee at [QOSF](https://qosf.org/)'s mentorship program, working on Distributed Quantum Algorithms.
+Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts. Right now, I am an Quantum Software Engineer intern at [Zapata](https://github.com/zapatacomputing).
 
 I plan on keeping everything quantum-related in [this repo](https://github.com/Shiro-Raven/ShiroQ).
 
 ### Repos I Worked On (By Area)
+- Quantum Computing :electron:: [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator)
 - Automated Software Sizing :straight_ruler:: [COSMIC-arm-tool](https://github.com/Shiro-Raven/COSMIC-arm-tool)
 - Hardware Projects :battery::
     - Microcontrollers: [keystroke-authenticator](https://github.com/Logician724/keystroke-authenticator), [SmartAttendance](https://github.com/Shiro-Raven/SmartAttendance), 
