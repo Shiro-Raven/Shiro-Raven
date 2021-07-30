@@ -1,4 +1,4 @@
-## Hello, Stranger. I am Shiro Raven :white_flower:
+## Hello, Stranger. :white_flower:
 
 I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Combinatorial Optimization, and Quantum Computing. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
 
