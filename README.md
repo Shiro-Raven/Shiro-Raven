@@ -1,17 +1,15 @@
 ## Hello, Stranger. :white_flower:
 
-I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Combinatorial Optimization, and Quantum Computing. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
+I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Quantum Computing, and Legal Data Science. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
 
 ### What I'm Doing Now
-Apart from my studies, I am exploring the field of Quantum Computing, learning different concepts. Right now, I am a Quantum Software Engineer intern at [Zapata](https://github.com/zapatacomputing).
-
-I plan on keeping everything quantum-related in [this repo](https://github.com/Shiro-Raven/ShiroQ).
+Right now, I am working part-time at Infineon, using ML to find patterns in data related to semiconductor-related supply chain. Apart from that, I am researching a new technique for quantum process tomography, which is based on variational quantum algorithms, with TUM's Quantum Computing group. 
 
 ### Repos I Worked On (By Area)
-- Quantum Computing :electron:: [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator)
+- Quantum Computing :electron:: [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator), [different repos from Zapata Computing](https://github.com/zapatacomputing)
 - Automated Software Sizing :straight_ruler:: [COSMIC-arm-tool](https://github.com/Shiro-Raven/COSMIC-arm-tool)
 - Hardware Projects :battery::
-    - Microcontrollers: [keystroke-authenticator](https://github.com/Logician724/keystroke-authenticator), [SmartAttendance](https://github.com/Shiro-Raven/SmartAttendance), 
+    - Microcontrollers: [keystroke-authenticator](https://github.com/Logician724/keystroke-authenticator), [SmartAttendance](https://github.com/Shiro-Raven/SmartAttendance)
     - FPGAs: [verilog-MIPS](https://github.com/Shiro-Raven/verilog-MIPS)
 - Web Development :globe_with_meridians:: [PARASITE](https://github.com/Shiro-Raven/PARASITE), [Mashaghel](https://github.com/Shiro-Raven/Mashaghel)
 - Data Analysis and Pipelining :abacus:: [play-store-analysis](https://github.com/Logician724/play-store-analysis)
