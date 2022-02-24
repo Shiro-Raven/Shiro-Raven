@@ -1,6 +1,6 @@
 ## Hello, Stranger. :white_flower:
 
-I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Quantum Computing, and Legal Data Science. You can find my CV [here](https://drive.google.com/file/d/1EFo1c2Njz5dOO9gTeyblBK3Zn3l8Of0G/view?usp=sharing).
+I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Quantum Computing, and Legal Data Science. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
 
 ### What I'm Doing Now
 Right now, I am working part-time at Infineon, using ML to find patterns in data related to semiconductor-related supply chain. Apart from that, I am researching a new technique for quantum process tomography, which is based on variational quantum algorithms, with TUM's Quantum Computing group. 
