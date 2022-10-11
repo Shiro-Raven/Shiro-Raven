@@ -3,7 +3,7 @@
 I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Quantum Computing, and Legal Data Science. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
 
 ### What I'm Doing Now
-Right now, I am enjoying the beautiful views of Switzerland during a 9-week internship in CERN's openlab department, developing a platform for benchmarking quantum routines on different quantum backends.
+Right now, I am mainly busy finishing coursework for my master's program.
 
 ### Repos I Worked On (By Area)
 - Quantum Computing :electron:: [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator), [different repos from Zapata Computing](https://github.com/zapatacomputing)
