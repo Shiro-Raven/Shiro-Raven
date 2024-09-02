@@ -3,10 +3,10 @@
 I am an MSc. Informatics student at TU Munich :computer::de: I am interested in the fields of Machine Learning, Quantum Computing, and Legal Data Science. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
 
 ### What I'm Doing Now
-Right now, I am a summer resident at Xanadu, simultanously wrapping up my master's thesis on Tensor Networks for pre-training QML models.
+I just finished my master's studies and looking for my next adventure in the industry 😄 Hmu if I can be of help to your organization!
 
 ### Repos I Worked On (By Area)
-- Quantum Computing :electron:: [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator), [different repos from Zapata Computing](https://github.com/zapatacomputing)
+- Quantum Computing :electron:: [PennyLane](https://github.com/PennyLaneAI/pennylane), [Interlin-q](https://github.com/Interlin-q/Interlin-q), [shiroq-quantum-simulator](https://github.com/Shiro-Raven/shiroq-quantum-simulator), [different repos from Zapata Computing](https://github.com/zapatacomputing)
 - Automated Software Sizing :straight_ruler:: [COSMIC-arm-tool](https://github.com/Shiro-Raven/COSMIC-arm-tool)
 - Hardware Projects :battery::
     - Microcontrollers: [keystroke-authenticator](https://github.com/Logician724/keystroke-authenticator), [SmartAttendance](https://github.com/Shiro-Raven/SmartAttendance)
