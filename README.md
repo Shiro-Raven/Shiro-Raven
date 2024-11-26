@@ -19,3 +19,6 @@ I just finished my master's studies and looking for my next adventure in the ind
 
 ### Find Me Online!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=red)](mailto:amfa.darwish.97@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amfa-darwish/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/The_shiro_raven) [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&labelColor=00CCBB&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ahmed_Darwish45)
+
+#### What is "Shiro-Raven"?
+Did you know that albino ravens exist? So cool, right? That is how I got inspired for the name. Shiro is the romanization of the Japanese word for white 白
