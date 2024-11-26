@@ -1,4 +1,4 @@
-## Hello, Stranger. :white_flower:
+## Hello, Stranger. :white_flower: ![raven](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5737f742-af9a-46e5-a92b-d0501f63f6ca/d34fvum-cf13e8ae-5b8b-45fd-a787-52b53403160a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MzdmNzQyLWFmOWEtNDZlNS1hOTJiLWQwNTAxZjYzZjZjYVwvZDM0ZnZ1bS1jZjEzZThhZS01YjhiLTQ1ZmQtYTc4Ny01MmI1MzQwMzE2MGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F4pDVF3tVaJSQYVUM9cpDOKN7wipZ_y7APe9-t99HI4)
 
  I am a holder of a master's degree in Informatics :computer: from TU Munich :de: with strong experience in quantum computing, machine learning, and software engineering. I am also interested in the field of Intellectual Property. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
 
