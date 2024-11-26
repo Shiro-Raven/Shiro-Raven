@@ -1,6 +1,6 @@
 ## Hello, Stranger. :white_flower:
 
- I am a holder of a master's degree in Informatics :computer: from TU Munich :de: with strong experience in quantum computing, machine learning, and software engineering. I am also interested in the fields of Intellectual Property. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
+ I am a holder of a master's degree in Informatics :computer: from TU Munich :de: with strong experience in quantum computing, machine learning, and software engineering. I am also interested in the field of Intellectual Property. You can find my CV [here](https://drive.google.com/file/d/1SO0YEOlbixnyRfZKPE2EQOQf5keg6HHR/view?usp=sharing).
 
 ### What I'm Doing Now
 I just finished my master's studies and looking for my next adventure in the industry 😄 Hmu if I can be of help to your organization!
